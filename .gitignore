@@ -1,0 +1,10 @@
+node_modules/
+dist/
+data/*
+!data/.gitkeep
+.env
+.DS_Store
+*.log
+artifacts/
+__pycache__/
+.ipynb_checkpoints/

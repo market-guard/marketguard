@@ -1,0 +1,13 @@
+name: marketguard-ml
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.12
+  - pandas
+  - numpy
+  - scikit-learn
+  - ipykernel
+  - nbclient
+  - nbformat
+  - jupyterlab
