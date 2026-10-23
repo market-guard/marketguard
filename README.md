@@ -2,6 +2,10 @@
 
 A local proof of concept for researching Facebook Marketplace vehicle listings. React and Vite power the UI; Express handles authentication and model requests; SQLite persists users, revocable sessions, and private query history.
 
+# Current compatible locations
+
+- Tijuana, Baja California, MX
+
 ## Run locally
 
 Requires Node.js 22.13+ (tested on 22.22). Uses Node's built-in SQLite driver, which emits an experimental-feature notice on Node 22.
